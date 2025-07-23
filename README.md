@@ -2,7 +2,6 @@
 ## A codebase for image classification based on Jittor
 
 
-## UPDATE
 ### Add More models
 #### Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (ICCV2025)
 
