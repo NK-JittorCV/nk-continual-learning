@@ -1,1 +1,1 @@
-# jittor-continual-learning
+# nk-continual-learning
